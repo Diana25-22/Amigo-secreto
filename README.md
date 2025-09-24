@@ -4,13 +4,20 @@ Proyecto para organizar sorteos entre amigos
 
 Este proyecto permite organizar un sorteo de *Amigo Secreto* de manera sencilla y rápida.  
 Los usuarios pueden agregar los nombres de los participantes y realizar el sorteo automáticamente.
+
 ## 📸 Capturas de pantalla
 
 1. Agregar nombres
-![Agregar nombres](./assets/amigos)
+![Agregar nombres](./assets/amigos.webp)
 
 2. Lista de participantes
-![Lista participantes](./assets/amigos%201)
+![Lista participantes](./assets/amigo_1.webp)
 
 3. Resultado del sorteo
 ![Resultado del sorteo](./assets/unidad.jpg)
+
+## 🚀 Características
+
+- Interfaz intuitiva y fácil de usar
+- Sorteo aleatorio garantizado
+- Lista de participantes editable
