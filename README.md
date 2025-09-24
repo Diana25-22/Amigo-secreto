@@ -16,6 +16,9 @@ Los usuarios pueden agregar los nombres de los participantes y realizar el sorte
 3. Resultado del sorteo
 ![Resultado del sorteo](./assets/unidad.jpg)
 
+ls -la
+ls -la assets/
+
 ## 🚀 Características
 
 - Interfaz intuitiva y fácil de usar
