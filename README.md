@@ -7,7 +7,7 @@ Los usuarios pueden agregar los nombres de los participantes y realizar el sorte
 ## 📸 Capturas de pantalla
 
 1. Agregar nombres
-![Agregar nombres](./assets/agregar_nombres.png)
+![Agregar nombres](./assets/amigos.webp)
 
 2. Resultado del sorteo
-![Resultado](./assets/resultado.png)
+![Resultado](./assets/unidad.jpg)
