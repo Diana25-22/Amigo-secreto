@@ -6,11 +6,11 @@ Este proyecto permite organizar un sorteo de *Amigo Secreto* de manera sencilla 
 Los usuarios pueden agregar los nombres de los participantes y realizar el sorteo automáticamente.
 ## 📸 Capturas de pantalla
 
-### 1. Agregar nombres
+1. Agregar nombres
 ![Agregar nombres](./assets/amigos)
 
-### 2. Lista de participantes
+2. Lista de participantes
 ![Lista participantes](./assets/amigos%201)
 
-### 3. Resultado del sorteo
+3. Resultado del sorteo
 ![Resultado del sorteo](./assets/unidad.jpg)
